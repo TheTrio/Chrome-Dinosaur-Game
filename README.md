@@ -1,6 +1,6 @@
 # Chrome-Dinosaur-Game
 
-# How to install
+## How to install
 
 1. Install python3 on your machine
 2. Install pygame by typing the following into your command prompt or terminal
