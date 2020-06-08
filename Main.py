@@ -107,8 +107,6 @@ while run:
     dino_y_vel += gravity
     if bird_allow:
         bird_x+=bird_x_vel
-    if dino_y_vel == 0:
-        dino_y_vel = gravity
     if dino_y > 90:
         dino_y = 90
         jump = False
